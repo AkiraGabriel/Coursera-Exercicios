@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-from msilib.schema import Media
-
-
 Pri = int(input("Digite a primeira nota:"))
 Seg = int(input("Digite a segunda nota:"))
 Ter = int(input("Digite a terceira nota:"))
