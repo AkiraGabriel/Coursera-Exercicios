@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from msilib.schema import Media
 
 
